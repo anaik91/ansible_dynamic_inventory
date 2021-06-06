@@ -1,5 +1,9 @@
 # ansible_dynamic_inventory
 
+## Pre Reading
+
+Please read the following background material on [Dynamic Inventory](https://www.jeffgeerling.com/blog/creating-custom-dynamic-inventories-ansible).
+
 ## Test invnetory 
 
 ```
